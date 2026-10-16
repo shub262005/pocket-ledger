@@ -9,6 +9,10 @@ A simple, offline Android app for the everyday money you owe friends—and the m
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.2.21-7F52FF?logo=kotlin&logoColor=white)
 ![Material 3](https://img.shields.io/badge/UI-Material%203-245C43)
 
+**Try the beta:** [Download the Android APK](https://github.com/shub262005/pocket-ledger/releases/download/v0.1.0-beta/Pocket-Ledger-v0.1.0-beta-debug.apk) · [Release notes](https://github.com/shub262005/pocket-ledger/releases/tag/v0.1.0-beta)
+
+This is a debug-signed testing build for Android 8.0 and newer. Device/emulator UI testing is still pending. Export a backup before uninstalling or changing builds.
+
 ## Why Pocket Ledger?
 
 You bought snacks for a friend. They paid for lunch yesterday. Pocket Ledger keeps both sides in one place, so you can see what is outstanding and settle up when it suits you.
