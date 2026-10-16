@@ -1,0 +1,42 @@
+# Gradle, Kotlin and Android build output
+.gradle/
+.kotlin/
+**/build/
+.externalNativeBuild/
+.cxx/
+captures/
+*.apk
+*.aab
+*.ap_
+
+# Machine-specific SDKs and development tools
+/local.properties
+/.tooling/
+
+# IDE metadata
+.idea/
+*.iml
+.vscode/
+
+# Release signing and local secrets (never commit private keys)
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+.env
+.env.*
+!.env.example
+
+# Personal ledger exports and databases
+pocket-ledger-*.json
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
